@@ -1,0 +1,13 @@
+{
+    "checkLeaks": true,
+    "diff": true,
+    "exclude": [
+        "node_modules"
+    ],
+    "package": "./package.json",
+    "require": "@babel/register",
+    "sourceMaps": true,
+    "spec": [
+        "src/**/*.spec.js"
+    ]
+}
