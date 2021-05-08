@@ -54,7 +54,7 @@
         "import/no-nodejs-modules": "off",
         "indent": [
             "error",
-            "spaces",
+            4,
             {
                 "SwitchCase": 1
             }
