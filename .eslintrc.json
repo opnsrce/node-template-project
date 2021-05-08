@@ -54,7 +54,7 @@
         "import/no-nodejs-modules": "off",
         "indent": [
             "error",
-            "tab",
+            "spaces",
             {
                 "SwitchCase": 1
             }
@@ -96,7 +96,7 @@
         "rest-spread-spacing": "error",
         "semi": [
             "error",
-            "never"
+            "always"
         ],
         "semi-spacing": "error",
         "sort-imports": "off",
