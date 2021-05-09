@@ -1,12 +1,14 @@
 {
     "env": {
-        "mocha": true
+        "es6": true,
+        "mocha": true,
+        "node": true
     },
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
         },
-        "ecmaVersion": 7,
+        "ecmaVersion": 8,
         "sourceType": "module"
     },
     "plugins": [
@@ -108,7 +110,7 @@
         "spaced-comment": "error",
         "template-curly-spacing": [
             "error",
-            "always"
+            "never"
         ],
         "valid-jsdoc": "warn"
     }
