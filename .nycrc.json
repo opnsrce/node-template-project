@@ -2,7 +2,7 @@
     "all": false,
     "branches": 80,
     "exclude": [
-        "**/*.spec.ts"
+        "**/*.spec.js"
     ],
     "excludeNodeModules": true,
     "functions": 80,
