@@ -41,8 +41,7 @@
         "computed-property-spacing": "error",
         "consistent-this": "error",
         "curly": [
-            "error",
-            "multi"
+            "error"
         ],
         "dot-location": [
             "error",
@@ -71,6 +70,7 @@
         "no-process-exit": "error",
         "no-sync": "warn",
         "no-trailing-spaces": "error",
+        "no-undef": "error",
         "no-whitespace-before-property": "error",
         "object-curly-newline": "error",
         "object-curly-spacing": [
